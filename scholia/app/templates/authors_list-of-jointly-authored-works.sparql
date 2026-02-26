@@ -1,4 +1,4 @@
-{% import 'sparql-helpers.sparql' as sparql_helpers -%}
+scholia/app/templates/authors_list-of-jointly-authored-works.sparql{% import 'sparql-helpers.sparql' as sparql_helpers -%}
 PREFIX bd: <http://www.bigdata.com/rdf#>
 PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
 PREFIX wd: <http://www.wikidata.org/entity/>
